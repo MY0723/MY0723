@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好呀 👋
 
 <!--
 **MY0723/MY0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MY0723)
