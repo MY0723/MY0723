@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨STAT                                                                  stat
+✨STAT                                                                  
 --------------------------------------------------------------------------------------
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MY0723&theme=onedark&show_icons=true)
 
