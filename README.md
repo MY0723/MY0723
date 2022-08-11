@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ✨STAT
 --------------------------------------------------------------------------------------
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MY0723)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MY0723&theme=onedark&show_icons=true)
 
 💬Some Labels
 --------------------------------------------------------------------------------------
-https://img.shields.io/badge/goby--poc-go-green
+![Travis](https://img.shields.io/badge/goby--poc-go-green)
