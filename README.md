@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ✨STAT
 --------------------------------------------------------------------------------------
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MY0723&theme=onedark&show_icons=true)
-
 ⚡Language
 --------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MY0723&layout=compact&theme=onedark&show_icons=true)
