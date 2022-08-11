@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 💬Some Labels
 --------------------------------------------------------------------------------------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MY0723&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MY0723&left_color=gray&right_color=blue)
 ![Travis](https://img.shields.io/badge/goby--poc-go-green)
 ![Travis](https://img.shields.io/badge/ofx-python-blue)
