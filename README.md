@@ -1,4 +1,4 @@
-### 你好呀 👋
+### 你好呀 👋，如果我的资源对你有帮助的话，请帮我点个Star➕Follow，谢谢喽🍖
 
 <!--
 **MY0723/MY0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
