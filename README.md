@@ -1,6 +1,6 @@
 ### 你好呀！朋友 👋，如果我的资源对你有帮助的话，请帮我点个Star➕Follow，谢谢喽🍖
 ### Hello! Friends 👋, if my resources are helpful to you, please give me a Star➕Follow, thank you🍖
-### Weixin Official Accounts: Safety without baldness, welcome to pay attention
+
 <!--
 **MY0723/MY0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
