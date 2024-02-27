@@ -1,5 +1,4 @@
 ### 你好呀！朋友 👋，如果我的资源对你有帮助的话，请帮我点个Star➕Follow，谢谢喽🍖
-### 微信公众号：不秃头的安全，欢迎大家关注一下
 ### Hello! Friends 👋, if my resources are helpful to you, please give me a Star➕Follow, thank you🍖
 ### Weixin Official Accounts: Safety without baldness, welcome to pay attention
 <!--
